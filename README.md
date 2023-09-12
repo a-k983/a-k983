@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home network in Packet Tracer</b>
-  - [Simple Office / Home Office](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Simple Office / Home Office](https://github.com/a-k983/Packet-Tracer)
 
 <h2>📺 YouTube Videos</h2>
 

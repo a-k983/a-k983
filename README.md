@@ -12,8 +12,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://www.youtube.com/channel/UCEvSPJmsfSectGen_VEgAFw" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/alon-koresh-700441248/" />][linkedin]
+[<img align="left" alt="AlonKoresh | YouTube" width="22px" src="https://www.youtube.com/channel/UCEvSPJmsfSectGen_VEgAFw" />][youtube]
+[<img align="left" alt="AlonKoresh | LinkedIn" width="22px" src="https://www.linkedin.com/in/alon-koresh-700441248/" />][linkedin]
 
 
 [youtube]: https://www.youtube.com/channel/UCEvSPJmsfSectGen_VEgAFw
